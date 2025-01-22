@@ -1,0 +1,6 @@
+Pais:....... Angola
+Casos:...... 24
+Recuperados. 12
+Obtos:...... 2
+Ativos:..... 0
+**************************
